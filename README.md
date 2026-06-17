@@ -321,7 +321,10 @@ fsm-controlled-datapath-verilog/
 
 ## Author
 
-### Gandla Srivinay
+**Gandla Srivinay**
+
+- LinkedIn:www.linkedin.com/in/gandla-srivinay
+- GitHub: https://github.com/srivinay-05
 
 B.Tech (ECE) | Aspiring RTL Design Engineer
 
